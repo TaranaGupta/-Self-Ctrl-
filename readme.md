@@ -12,6 +12,6 @@ How do I install this?
 * Select the {Self-Ctrl} folder
 * Start Facebook!
 
+Statutory warning: It was a two day class projects and requires a lot of polishing and features.
+I would love to have your feedback.
 
-
-It was a class project and still requires a lot of polishing and additional features. Do let me know if you find bugs!
