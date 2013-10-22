@@ -1,6 +1,7 @@
 {Self-Ctrl} 
 ================================
-A chrome extension which takes facebook content down with gravity.
+{Self-Crtl} is a chrome extension designed for excessive Facebook users (like me :D).  
+Gravity takes up Facebook's page content after 2mins of usage. Code is on my Github.
 
 How do I install this?
 -------------------------
